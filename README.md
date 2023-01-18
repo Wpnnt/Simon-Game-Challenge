@@ -10,7 +10,7 @@
 For the development of this website I used the following technologies:
 
 - JavaScript  
-- NODE.JS 
+- Jquery.js
 - CSS5
 - HTML 
 
