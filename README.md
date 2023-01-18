@@ -1,6 +1,6 @@
 ## Simon-Game-Challenge
 
-## <h4 align="center"> Check de live project here ---> <a href="======">Live Project</a> </h4>
+## <h4 align="center"> Check de live project here ---> <a href="https://wpnnt.github.io/Simon-Game-Challenge">Live Project</a> </h4>
 ![Resultado final do projeto](preview.png)
 
 ## 💼 Technologies
